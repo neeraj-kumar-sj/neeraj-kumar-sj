@@ -1,10 +1,25 @@
 
+<pre>
+      ___           ___           ___       ___       ___     
+     /\__\         /\  \         /\__\     /\__\     /\  \    
+    /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+   /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+  /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+ /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+ \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+      \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+      /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+     /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+     \/__/         \/__/         \/__/     \/__/     \/__/    
+
+
+</pre>
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
 [![Linkedin Badge](https://img.shields.io/badge/-neerajkumarsj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/)](https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/)
 
-### Hello! I’m Neeraj Kumar S J a Code Ninja from India.
+### I’m Neeraj Kumar S J a Code Ninja from India.
 
 #### 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, Embedded Software Development, Full Stack Web Development, 
 #### 🌱 I’m currently learning CyberSecurity, Networking, Natural Language Processing.
@@ -20,7 +35,24 @@
 
 ## I am a Computer Science Engineering graduate from Dayananda Sagar University, Bangalore. 
 ***************************************************************************************************************
-### Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
+### BattleGrounds
+<table align="center">
+   <tr>
+      <td>
+         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+      </td>
+      <td>
+         <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
+      </td>
+      <td>
+         <h4>WSL2</h4>
+      </td>
+   </tr>
+</table>
+
+# Topics I'm Intrested In
+-------------------------
+### ⚡ Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
 ------------------------------------------------------------------------------------
 Having an astute Knowledge and experience in, 
 - Data Analysis & Visualization. 
@@ -38,7 +70,7 @@ Having an astute Knowledge and experience in,
   - [![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/hritik5102)](https://github.com/hritik5102)
   - <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/pytorch.svg'> </a>
 ***************************************************************************************************************
-### Embedded Software Development
+### 🔨 Embedded Software Development
 ----------------------------------------
 - I also have a profound knowledge of Embedded Software Development. 
 - Skilled in programming languages like C and Embedded C.
@@ -55,7 +87,7 @@ Technical Embedded Skills:
 - Microcontrollers: 8051 (8 bit).
 - Operating System: Ubuntu Linux, Embedded Linux, Windows ![Linux](http://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux) ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff) ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff) ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi) ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ***************************************************************************************************************
-### Full Stack Web Development
+### 🖥 Full Stack Web Development
 ----------------------------------
 - I have an astute experience in Web Development. 
 - Experience in working on Frameworks like WordPress, Laravel, Flask, Django, and Express.js. [![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) ![Django](https://img.shields.io/badge/-Django-092E20?style=plastic&logo=Django)
@@ -141,23 +173,6 @@ Primary Skills
 # Henceforth, I am eager to bring value to organization through hard work and commitment to quality.</p>
 <br>
 <p align="center">
- Visit my profile and give a ⭐️ if you like it</p>
- <br>
- <p align="center">
- <a href="https://www.linkedin.com/in/pramod-kumar-4aa47616b/" target="blank">
-  <img align="center" alt="Pramod's LinkedIn" width="30px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://www.instagram.com/cyber_freak_21/" target="blank">
-  <img align="center" alt="Pramod's Instagram" width="30px" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://twitter.com/pramod2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" /> &nbsp; &nbsp;
- </a>
- <a href="https://medium.com/@pramodrana2107" target="blank">
-  <img align="center" alt="Pramod's Twitter" width="30px" src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" />
- </a> 
-  <br/>
-  <br/>
   Thanks for stopping by 😁<br/>
 </p>
 <p align="center"><img alt="Profile Hits" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frajput2107%2F" /></p>
@@ -165,19 +180,6 @@ Primary Skills
 <p>
 
 
-<table align="center">
-   <tr>
-      <td>
-         <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-      </td>
-      <td>
-         <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
-      </td>
-      <td>
-         <h4>WSL2</h4>
-      </td>
-   </tr>
-</table>
 
 
 
