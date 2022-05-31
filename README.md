@@ -33,7 +33,7 @@
 <br />
 
 
-## I am a Computer Science Engineering graduate from Dayananda Sagar University, Bangalore. 
+## I am a Computer Science Engineering graduate from <a href="dsu.edu.in"> @Dayananda Sagar University, Bangalore. </a> 
 ***************************************************************************************************************
 ### My BattleGrounds
 <table align="center">
@@ -45,8 +45,11 @@
          <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
       </td>
       <td>
-         <img align="left" alt="Linux Terminator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
+         <img align="left" alt="Linux Terminator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/GNOME_Terminal_icon_2019.svg/640px-GNOME_Terminal_icon_2019.svg.png" />
       </td>
+      <td>
+         <img align="left" alt="Linux Terminator" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/640px-Conda_logo.svg.png" />
+      </td>  
       <td>
          <h4>WSL2</h4>
       </td>
