@@ -45,6 +45,9 @@
          <img align="left" alt="Windows Terminal" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png" />
       </td>
       <td>
+         <img align="left" alt="Linux Terminator" width="26px" src="[https://upload.wikimedia.org/wikipedia/commons/0/01/Windows_Terminal_Logo_256x256.png](https://commons.wikimedia.org/wiki/File:GNOME_Terminal_logo.png)" />
+      </td>
+      <td>
          <h4>WSL2</h4>
       </td>
    </tr>
