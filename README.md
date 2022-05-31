@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neeraj-kumar-sj
+- 👋 Hi, I’m Neeraj Kumar S J
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, Embedded Software Development, Full Stack Web Development, 
 - 🌱 I’m currently learning CyberSecurity, Networking, Natural Language Processing.
 - 💞️ I’m looking to collaborate on Augmented and Virtual Reality
