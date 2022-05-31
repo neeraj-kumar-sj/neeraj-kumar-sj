@@ -1,6 +1,12 @@
 
 
 ## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
+[![Linkedin Badge](https://img.shields.io/badge/-abdullahalrifat-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdullahalrifat/)](https://www.linkedin.com/in/abdullahalrifat/)
+[![Medium Badge](https://img.shields.io/badge/-@__abdullahalrifat95-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@_abdullahalrifat95)](https://medium.com/@_abdullahalrifat95)
+[![Gmail Badge](https://img.shields.io/badge/-abdullahalrifat95-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:abdullahalrifat95@gmail.com)](mailto:abdullahalrifat95@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/-abdullahalrifatcse-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/abdullahalrifatcse)](https://www.facebook.com/abdullahalrifatcse)
+[![Facebook Badge](https://img.shields.io/badge/-abdullahalrifat.github.io-%231877F2.svg?&style=flat-square&logoColor=white&link=https://abdullahalrifat.github.io/)](https://abdullahalrifat.github.io/)
 
 ### Hello! I’m Neeraj Kumar S J a Code Ninja from India.
 
@@ -29,6 +35,8 @@ Having an astute Knowledge and experience in,
 - Text mining and sentiment analysis. 
 - Customer analytics concepts such as segmentation and conjoint analysis. 
 - Worked on R, Tableau, and familiar Apache. 
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r"></code>
 ***************************************************************************************************************
 ### Embedded Software Development
 ----------------------------------------
@@ -40,7 +48,10 @@ Having an astute Knowledge and experience in,
 Technical Embedded Skills:
 - Tools: GDB, PDB.
 - Compilers: GCC, xc8, PIC 184580.
-- Languages : C,C++,Embedded C.
+- Languages :
+  - C: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+  - C++ <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+  - Embedded C: <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 - Microcontrollers: 8051 (8 bit).
 - Operating System: Ubuntu Linux, Embedded Linux, Windows
 ***************************************************************************************************************
@@ -53,7 +64,7 @@ Technical Embedded Skills:
 Primary Skills
 - JavaScript: Node.js, ReactJS, React Native [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
 - HTML5 & CSS3 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-- PHP
+- PHP <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 ***************************************************************************************************************
 ### Databases
 ----------------------------------
@@ -78,7 +89,9 @@ Primary Skills
 - Version Controlling : Git, Github, Gitlab, Bitbucket [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 - Project Management Tools: Jira, Confluence, Slack
 
+
+
 Henceforth, I am eager to bring value to organization through hard work and commitment to quality.
- 
+
 
 ⭐️ From [@neeraj-kumar-sj](https://github.com/neeraj-kumar-sj)
