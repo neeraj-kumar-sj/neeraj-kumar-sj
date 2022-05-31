@@ -35,7 +35,7 @@
 
 ## I am a Computer Science Engineering graduate from Dayananda Sagar University, Bangalore. 
 ***************************************************************************************************************
-### BattleGrounds
+### My BattleGrounds
 <table align="center">
    <tr>
       <td>
@@ -104,7 +104,7 @@ Primary Skills
 - Java ![Java](https://img.shields.io/badge/Java-orange?style=flat-square&logo=java)
 - Kotlin ![Kotlin]( https://img.shields.io/badge/Kotlin-black?style=flat-square&logo=kotlin)
 ***************************************************************************************************************
-### Databases
+### 📝 Databases
 ----------------------------------
 - JSON [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 - MYSQL [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
@@ -113,10 +113,10 @@ Primary Skills
 - MariaDB ![MariaDB](https://img.shields.io/badge/MariaDB-black?style=flat-square&logo=mariadb)
 - InfluxDB ![InfluxDB](https://img.shields.io/badge/InfluxDB-black?style=flat-square&logo=influxdb)
 ***************************************************************************************************************
-### Cloud Platforms and Devops
+### 💬 Cloud Platforms and Devops
 ----------------------------------
 - Docker [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-- Kubernetes <code><a href="https://kubernetes.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
+- Kubernetes ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
   - ![Ansible](https://img.shields.io/badge/Ansible-black?style=flat-square&logo=ansible)
   - ![Nextcloud](https://img.shields.io/badge/Nextcloud-0484cc?style=flat-square&logo=nextcloud)
   - ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat-square&logo=grafana)
@@ -135,7 +135,7 @@ Primary Skills
 - Redis ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 ***************************************************************************************************************
-### Other IT Skills
+### 🏦 Other IT Skills
 -----------------
 - Version Controlling : Git, Github, Gitlab, Bitbucket [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
 - Project Management Tools: Jira, Confluence, Slack [![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC) ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
@@ -159,7 +159,7 @@ Primary Skills
 </p>
 
 ***************************************************************************************************************
-### Some of my favorite open source projects
+### 👨🏻‍💻 Some of my favorite open source projects
 
 [![Bitwarden](https://img.shields.io/badge/-Bitwarden-444444?style=flat&logo=bitwarden&logoColor=175DDC)](https://github.com/bitwarden)
 [![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-444444?style=flat&logo=Dark-Reader&logoColor=2f7485)](https://github.com/darkreader/darkreader)
@@ -168,6 +168,19 @@ Primary Skills
 [![Visual Studio Code](https://img.shields.io/badge/-VSCode-444444?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
 [![Tor](https://img.shields.io/badge/-Tor-444444?style=flat&logo=tor&logoColor=7E4798)](https://www.torproject.org/)
 
+
+***************************************************************************************************************
+### 👾 Cybersecurity Projects
+
+[![](https://img.shields.io/badge/-🩸%20Heartbleed-000)](https://github.com/adamalston/Heartbleed)
+[![](https://img.shields.io/badge/-🌊%20SYN%20Flood-000)](https://github.com/adamalston/SYN-Flood)
+[![](https://img.shields.io/badge/-🗂%20Packet%20Sniffing%20%26%20Spoofing-000)](https://github.com/adamalston/Packet-Sniffing-and-Spoofing)
+[![](https://img.shields.io/badge/-💉%20SQL%20Injection-000)](https://github.com/adamalston/SQL-Injection)
+[![](https://img.shields.io/badge/-🛡%20Spectre%20%26%20Meltdown-000)](https://github.com/adamalston/Meltdown-Spectre)
+[![](https://img.shields.io/badge/-🌐%20Network%20Tools-000)](https://github.com/adamalston/Network-Tools)
+
+
+***************************************************************************************************************
 <br>
 <p align="center">
 # Henceforth, I am eager to bring value to organization through hard work and commitment to quality.</p>
