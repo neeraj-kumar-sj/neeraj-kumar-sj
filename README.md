@@ -33,7 +33,7 @@
 <br />
 
 
-## I am a Computer Science Engineering graduate from <a href="dsu.edu.in"> @Dayananda Sagar University, Bangalore. </a> 
+## I am a Computer Science Engineering graduate from <a href="dsu.edu.in"> Dayananda Sagar University, Bangalore. </a> 
 ***************************************************************************************************************
 ### My BattleGrounds
 <table align="center">
