@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on Augmented and Virtual Reality
 - 📫 https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/
 
-# I am a Computer Science Engineering graduate from Dayananda Sagar University, Bangalore. 
+## I am a Computer Science Engineering graduate from Dayananda Sagar University, Bangalore. 
 ***************************************************************************************************************
-## Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
+### Artificial Intelligence, Machine Learning, Deep Learning, and Data Science
 ------------------------------------------------------------------------------------
 Having an astute Knowledge and experience in, 
 - Data Analysis & Visualization. 
@@ -18,7 +18,7 @@ Having an astute Knowledge and experience in,
 - Customer analytics concepts such as segmentation and conjoint analysis. 
 - Worked on R, Tableau, SQL, and familiar Apache. 
 ***************************************************************************************************************
-## Embedded Software Development
+### Embedded Software Development
 ----------------------------------------
 - I also have a profound knowledge of Embedded Software Development. 
 - Skilled in programming languages like C and Embedded C.
@@ -32,7 +32,7 @@ Technical Embedded Skills:
 - Microcontrollers: 8051 (8 bit).
 - Operating System: Ubuntu Linux, Embedded Linux, Windows
 ***************************************************************************************************************
-## Full Stack Web Development
+### Full Stack Web Development
 ----------------------------------
 - I have an astute experience in Web Development. 
 - Experience in working on Frameworks like WordPress, Laravel, Flask, Django, and Express.js.
@@ -43,7 +43,7 @@ Primary Skills
 - HTML5 & CSS3
 - PHP
 ***************************************************************************************************************
-## Other IT Skills
+### Other IT Skills
 -----------------
 - Version Controlling : Git, Github, Gitlab, Bitbucket
 - Project Management Tools: Jira, Confluence, Slack
