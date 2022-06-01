@@ -15,7 +15,7 @@
 
 </pre>
 
-## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+## Welcome to my world <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="20px">
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
 [![Linkedin Badge](https://img.shields.io/badge/-neerajkumarsj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/)](https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/)
 
