@@ -140,8 +140,8 @@ Primary Skills
 ***************************************************************************************************************
 ### 🏦 Other IT Skills
 -----------------
-- Version Controlling : Git, Github, Gitlab, Bitbucket [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/BRdhanani)](https://github.com/BRdhanani)
-- Project Management Tools: Jira, Confluence, Slack ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC) ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
+- Version Controlling : Git, Github, Gitlab, Bitbucket [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) [![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat&logo=gitlab&link=https://github.com/hritik5102)](https://gitlab.com/hritik5102) [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/hritik5102)](https://github.com/hritik5102) [![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)]
+- Project Management Tools: Jira, Confluence, Slack ![Jira](https://img.shields.io/badge/-Jira-222222?style=flat&logo=jira-software&logoColor=white&logoColor=0052CC) 
 
 ***************************************************************************************************************
 ### 👉 Competitive Programming & Problem Solving
