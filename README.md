@@ -18,9 +18,10 @@
 ![Discord](https://img.shields.io/discord/491175207122370581?color=black&label=Discord&logo=discord) ![](https://img.shields.io/endpoint?url=https://dev.discordprofiles.me/api/badge/vscode/491174779278065689) 
 [![Linkedin Badge](https://img.shields.io/badge/-neerajkumarsj-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/)](https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/)
 
-### I’m Neeraj Kumar S J a Code Ninja from India.
+### I’m Neeraj Kumar S J
 
-#### 👀 I’m interested in Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, Data Science, Embedded Software Development, Full Stack Web Development, 
+#### 👀 I’m interested in Artificial Intelligence and Machine Learning
+#### I'm also passionate towards Deep Learning, Computer Vision, Data Science, Embedded Software Development and Full Stack Web Development, 
 #### 🌱 I’m currently learning CyberSecurity, Networking, Natural Language Processing.
 #### 💞️ I’m looking to collaborate on Augmented and Virtual Reality
 #### 📫 https://www.linkedin.com/in/neeraj-kumar-s-j-0b8957177/
